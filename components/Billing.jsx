@@ -12,7 +12,8 @@ const Billing = () => {
     <div className='sm:w-[384px] w-[256px] sm:h-[356px] h-[237px]' >
     <Image src={bill} alt="bill"  className=" sm:w-[384px] w-[256px]
      sm:h-[356px] h-[237px]"
-     width={256} height={224}/>
+     
+     width={156} height={124}/>
     </div>
 </div>
 <div className={` md:text-left w-full

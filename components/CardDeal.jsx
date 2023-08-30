@@ -29,7 +29,7 @@ const CardDeal = () => {
     w-[256px] sm:h-[336px] h-[224px]' >
     <Image src={Card} alt="card"  className="  sm:w-[384px] w-[256px]
 h-[224px] sm:h-[336px] "
- width={256} height={224}/>
+     width={156} height={124}/>
     </div>
 
       </div>

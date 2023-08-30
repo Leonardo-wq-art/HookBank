@@ -9,7 +9,8 @@ const CTA = () => {
 
     <div className="w-full my-10 px-5 flex itemx-center justfify-center flex-col">
      <h2 className={` font-poppins font-semibold text-5xl text-white max-w-xl 
-     w-full `}>les't try our service now  </h2>
+     w-full `}>Let's  try our service now  </h2>
+
     <p className={` text-gray-200 max-w-md mt-5`}>
     Everything you need to do is just accept card
      payments and grow your business anywhere on the planet
